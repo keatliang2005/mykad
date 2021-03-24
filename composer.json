@@ -10,7 +10,7 @@
     "require": {
         "php": ">=7",
         "nesbot/carbon": "~1.21 || ^2.4",
-        "illuminate/support": "^5.3",
+        "illuminate/support": "^5.3 || ^8.0",
         "telcolab/extender": "1.*"
     },
     "autoload": {
